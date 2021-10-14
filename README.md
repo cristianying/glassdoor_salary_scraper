@@ -1,6 +1,6 @@
 # glassdoor_salary_proj
 
-## packges used
+## packages used
 - selenium
 - pandas
 - time
