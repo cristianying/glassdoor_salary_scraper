@@ -1,19 +1,168 @@
-company_name,job_type,base_salary,industry,company_size,founded,rating,company_type,sector,range_salary,min_salary,max_salary,avg_salary,company_txt,company_age
+company_name,job_type,base_salary,industry,company_size,founded,rating,company_type,sector,job_description,job_title,range_salary,min_salary,max_salary,avg_salary,company_txt,company_age
 "ExodusPoint Capital Management Hong Kong, Limited
-3.2", Full-time,HK$210K - HK$368K (Glassdoor Est.), Finance,501 to 1000 ,2017,3.2,Company - Private,Finance,1,210,368,289.0,"ExodusPoint Capital Management Hong Kong, Limited",4
-5 Miles Lab Company Limited, Full-time,HK$180K - HK$336K (Employer Est.), N/A,N/A,2021,-1.0,,,1,180,336,258.0,5 Miles Lab Company Limited,0
-JustOneGalaxy Recruitment, Full-time,HK$180K - HK$480K (Employer Est.), N/A,N/A,2021,-1.0,,,1,180,480,330.0,JustOneGalaxy Recruitment,0
-Commonwealth Bank, Full-time,HK$192K - HK$300K (Glassdoor Est.), N/A,Unknown,2021,-1.0,Company - Public,,1,192,300,246.0,Commonwealth Bank,0
-A Start Personnel Limited, Full-time,HK$264K - HK$360K (Employer Est.), N/A,Unknown,2021,-1.0,Company - Private,,1,264,360,312.0,A Start Personnel Limited,0
+3.2", Full-time,HK$210K - HK$368K (Glassdoor Est.), Finance,Size: 501 to 1000 ,2017,3.2,Company - Private,Finance,"ExodusPoint Capital, founded in 2017 by Michael Gelband and Hyung Lee, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm.
+We are looking for a Quantitative Strategies Research Analyst to join our team in Hong Kong. This person will work closely with portfolio managers on research projects with a focus on data-driven quantitative strategies.
+Responsibilities
+Collaborate with other technology teams to formulate innovative solutions for trading and risk management",Research analyst - Quantitative Strategies,1,210,368,289.0,"ExodusPoint Capital Management Hong Kong, Limited",4
+5 Miles Lab Company Limited, Full-time,HK$180K - HK$336K (Employer Est.), N/A,Size: N/A,2021,-1.0,,,"Job Scope
+Development of websites and applications for global and local markets
+Participate in website & database design project with well-known brands
+Research and develop AI solutions
+Data management and data analytics
+Develop campaign sites for acquisition and marketing purposes
+Anyone passionated about learning may also involve in interactive campaigns like hologram, AR, VR, games design
+New technology development including Facebook and Instagram SparkAR filter development",Data Analyst @ Agency,1,180,336,258.0,5 Miles Lab Company Limited,0
+JustOneGalaxy Recruitment, Full-time,HK$180K - HK$480K (Employer Est.), N/A,Size: N/A,2021,-1.0,,,"Business Intelligence Specialist/ Data Analyst
+Responsibilities:
+Dashboard implementation with BI tools
+Capturing source data for various Financial and Commercial clients
+Participated in the design and development of data warehouse/ETL/BI projects, understand metadata management & data cleansing
+Familiar with mainstream DB like Oracle, SQLServer, MySQL, Postgres, NoSQL
+Understand ETL products & BI tools, such as Tableau, Alteryx, Talend
+Requirements:","Business Intelligence/ Data Analyst (9-5:30 work,Project & Tech rotations!)",1,180,480,330.0,JustOneGalaxy Recruitment,0
 "BGC Group Pte Ltd
-3.4", Full-time,HK$180K - HK$240K (Employer Est.), Business Services,51 to 200 ,2005,3.4,Company - Public,Business Services,1,180,240,210.0,BGC Group Pte Ltd,16
-Robustus Investment Management, Full-time,HK$300K (Employer Est.), N/A,N/A,2021,-1.0,,,0,300,300,300.0,Robustus Investment Management,0
+3.4", Full-time,HK$180K - HK$240K (Employer Est.), Business Services,Size: 51 to 200 ,2005,3.4,Company - Public,Business Services,"What you can expect:
+Be part of the data analytics team
+Work together with account managers to understand customer requirements
+Explore electrical and operational sensor data
+Perform statistical analysis to characterize and quantify equipment features / failures
+Prepare reports for our customers
+Automate the analytical process
+Aid us in developing our failure prediction and demand prediction algorithms
+What we expect from you:",Junior Data Analyst (IT industry; IoT Project),1,180,240,210.0,BGC Group Pte Ltd,16
+Robustus Investment Management, Full-time,HK$300K (Employer Est.), N/A,Size: N/A,2021,-1.0,,,"ABOUT THIS ROLE
+Robustus is seeking a top-performing candidate to join us as our Business Development Analyst. You will have the opportunity to work with a team of seasoned corporate finance professionals and drive our business development efforts. You will take the lead in:
+Conducting market research and feasibility studies on potential investment projects;
+Presenting complex research findings and data in a simple and precise manner;
+Compiling financial models and pitch decks to present investment opportunities to internal and external stakeholders;
+Ensuring all materials are presented in a professional, accurate and aesthetic manner;
+Managing multiple projects by keeping track of project progress and providing updates to stakeholders regularly;",Business Development Analyst,0,300,300,300.0,Robustus Investment Management,0
+Aspen Digital, Full-time,HK$216K (Employer Est.), N/A,Size: N/A,2021,-1.0,,,"Aspen Digital is looking for a Junior Research Analyst
+Aspen Digital is a leading technology and financial services company accelerating the mass adoption of digital assets. We believe blockchain & digital assets will revolutionize the financial service industry like the internet revolutionized the way we share information. Aspen Digital’s focus is two-fold. First, we strive to provide the best investor solution platform with the most comprehensive suite of digital asset products to asset managers, institutions, and other sophisticated investors. Second, we strive to democratize access by providing a user-friendly technology platform capable of powering embedded digital asset products and services for any investor.
+Responsibilities:
+*
+Develop and maintain a solid understanding of crypto and blockchain technologies such as DeFi, NFT, smart contract protocols and Web 3.0 ecosystem.",Junior Research Analyst,0,216,216,216.0,Aspen Digital,0
 "Momenta
-3.0", Full-time,HK$180K (Employer Est.), Manufacturing,1 to 50 ,1971,3.0,Company - Private,Manufacturing,0,180,180,180.0,Momenta,50
-Aspen Digital, Full-time,HK$216K (Employer Est.), N/A,N/A,2021,-1.0,,,0,216,216,216.0,Aspen Digital,0
+3.0", Full-time,HK$180K (Employer Est.), Manufacturing,Size: 1 to 50 ,1971,3.0,Company - Private,Manufacturing,"What’s the role?
+We are currently recruiting for a junior business analyst to join an exciting project with HSBC Bank in Kowloon. The candidate will provide operational and services support for client account opening and closure.
+Start date: October 2021
+Location: South West Kowloon
+Duration: 6 months with the chance of extension
+Rates: up to 15,000 HKD per month
+Your day-to-day activities will include:",Junior Business Analyst,0,180,180,180.0,Momenta,50
+A Start Personnel Limited, Full-time,HK$264K - HK$360K (Employer Est.), N/A,Size: Unknown,2021,-1.0,Company - Private,,"Requirements:
+- Degree holder
+- 2-5 years data analyst exp in Garment/Garment Trims or Manufacturing Industry is preferable
+- Required knowledge in: SQL, Tableau, database structure
+- Additional knowledge in: Python, MS Dynamic (ERP), ETL tools, preferred
+- Good communication skills including spoken, written English and Chinese;
+Responsibilities:
+- Responsible for the structuring & execution of the company’s in-house data management & business intelligence planning",Data Analyst - Garment Industry,1,264,360,312.0,A Start Personnel Limited,0
+"Cigna
+3.7", Full-time,HK$192K - HK$360K (Glassdoor Est.), Insurance,Size: 10000+ ,1865,4.1,Company - Public,Insurance,"Job Objective:
+To sustain company’s growth business needs on data analytics and automation, we are seeking a high caliber candidate to join the Regional Financial Planning and Analysis (FP&A) team in Hong Kong to provide the solutions to different stakeholders.
+
+This position is under Regional FP&A department based in Hong Kong.
+
+Job Description:
+Manage data warehouse, consolidate and integrate data from diversified data source
+Automate reporting processes by designing and implementing the right tools and processes
+Develop dashboards to facilitate efficient data analysis
+Assist in the standardization and alignment of data definition
+Exhibits ability to understand current and emerging technologies, and to apply in the business
+Assist in ad-hoc projects to drive the business decision-making process
+
+
+Bachelor’s degree in Computer Science, Statistics or Information Management or related discipline
+1-2 years’ relevant experience, fresh graduate is also welcome
+Hands-on experience in database management and data analysis with data visualization tools
+Proficiency in SQL language and excellent skillset in Excel is a must
+Python programming experience is an absolute advantage
+Experience in SSIS in a plus
+Well-organized, self-motivated and a good team player
+Good communication skill in both written and spoken in English
+
+About Cigna
+Cigna Corporation exists to improve lives. We are a global health service company dedicated to improving the health, well-being and peace of mind of those we serve. Together, with colleagues around the world, we aspire to transform health services, making them more affordable and accessible to millions. Through our unmatched expertise, bold action, fresh ideas and an unwavering commitment to patient-centered care, we are a force of health services innovation. When you work with us, or one of our subsidiaries, you’ll enjoy meaningful career experiences that enrich people’s lives. What difference will you make?","Financial Data Analyst, International Markets",1,192,360,276.0,Cigna,156
+"ELEVATE
+3.1", Full-time,HK$125K - HK$187K (Glassdoor Est.), Business Services,Size: 501 to 1000 ,2008,3.1,Company - Private,Business Services,"ELEVATE is seeking a solutions-oriented, highly quantitative and analytical individual to fill the role of Data Visualization Analyst within the Worker Voice and Insights team. As a Data Visualization Analyst, you will be responsible for data storytelling – interpreting and presenting data collected through solutions and services including worker surveys in ways that are easily understood and interpreted to inform key business decisions related to social compliance improvements. You will apply your growth mindset to identifying areas for improvement in the data analysis and visualization processes and will bring your knowledge and experience to generate high-impact data reports and visuals.
+
+About the role:
+
+Your day-to-day responsibilities will focus on conducting quantitative and qualitative data analysis and working with complex datasets generated by our innovative and global data collection system for Worker Voice and Insights to produce clear, actionable data visuals and reporting.",Data Visualization Analyst,1,125,187,156.0,ELEVATE,13
+"ASK IT Limited
+4.7", Full-time,HK$300K - HK$360K (Employer Est.), N/A,Size: 1 to 50 ,2021,4.7,Company - Private,,"Responsibilities:
+Report to Quality Assurance Manager
+Develop, implement, and maintain test plans, test scenarios, test cases, and test procedures for all levels of testing
+Enhance test methodologies that ensure exhaustive testing of all assigned systems
+Ensure all testing work is undertaken in accordance with the policies and procedures as described
+Gather and analyze data in support of business cases, projects, process / system requirements
+Help validate business requirements and processes through careful testing
+Identify and manage project-level risks associated with/during testing and escalate as required",Quality Control Analyst,1,300,360,330.0,ASK IT Limited,0
+"NielsenIQ
+3.9", Full-time,HK$210K - HK$540K (Glassdoor Est.), N/A,Size: 10000+ ,1923,3.9,Company - Private,,"Job Description
+
+ABOUT THIS JOB
+Companies have increasingly been relying on market insights to make informed decisions and our role at NielsenIQ has evolved into us being information scientists -predicting the ‘What's Next’ for our clients, in order for them to grow, stay relevant in the present and for the future. Our behavioral researchers in NielsenIQ’s Consumer Insights team tackle our clients’ issues by unlocking the why and the how, while our data researchers identify key clients' priorities quantitatively by applying data science techniques on the survey and other big data sources.
+RESPONSIBILITIES
+Maintaining and building an accurate, complete, up-to-date understanding of the market with insightful data and intelligence","Analyst, Consumer Insights",1,210,540,375.0,NielsenIQ,98
 "Momenta
-3.0", Full-time,HK$180K (Employer Est.), Manufacturing,1 to 50 ,1971,3.0,Company - Private,Manufacturing,0,180,180,180.0,Momenta,50
-"Citi
-3.9", Full-time,HK$173K - HK$348K (Glassdoor Est.), Finance,10000+ ,1812,3.9,Company - Public,Finance,1,173,348,260.5,Citi,209
-"Momenta
-3.0", Full-time,HK$180K (Employer Est.), Manufacturing,1 to 50 ,1971,3.0,Company - Private,Manufacturing,0,180,180,180.0,Momenta,50
+3.0", Full-time,HK$2M (Employer Est.), Manufacturing,Size: 1 to 50 ,1971,3.0,Company - Private,Manufacturing,"What’s the role?
+We are currently recruiting for a business analyst to join an exciting project with HSBC Bank in Kowloon.
+The candidate will define the vision, design, and specifications to deliver the rollout of loan IQ in HK under the WCL Asia loan IQ adoption programme and support other loan IQ product delivery activities in the ASP region.
+Start date: October 2021
+Location: South West Kowloon
+Duration: 12 months with the chance of extension
+Rates: up to 150,000 HKD per month",WCL Loan IQ Business Analyst,0,200,200,200.0,Momenta,50
+"Cigna
+3.7", Full-time,HK$192K - HK$360K (Glassdoor Est.), Insurance,Size: 10000+ ,1865,3.7,Company - Public,Insurance,"Job Objective:
+To sustain company’s growth business needs on data analytics and automation, we are seeking a high caliber candidate to join the Regional Financial Planning and Analysis (FP&A) team in Hong Kong to provide the solutions to different stakeholders.
+
+This position is under Regional FP&A department based in Hong Kong.
+
+Job Description:
+Manage data warehouse, consolidate and integrate data from diversified data source
+Automate reporting processes by designing and implementing the right tools and processes
+Develop dashboards to facilitate efficient data analysis
+Assist in the standardization and alignment of data definition
+Exhibits ability to understand current and emerging technologies, and to apply in the business
+Assist in ad-hoc projects to drive the business decision-making process
+
+
+Bachelor’s degree in Computer Science, Statistics or Information Management or related discipline
+1-2 years’ relevant experience, fresh graduate is also welcome
+Hands-on experience in database management and data analysis with data visualization tools
+Proficiency in SQL language and excellent skillset in Excel is a must
+Python programming experience is an absolute advantage
+Experience in SSIS in a plus
+Well-organized, self-motivated and a good team player
+Good communication skill in both written and spoken in English
+
+About Cigna
+Cigna Corporation exists to improve lives. We are a global health service company dedicated to improving the health, well-being and peace of mind of those we serve. Together, with colleagues around the world, we aspire to transform health services, making them more affordable and accessible to millions. Through our unmatched expertise, bold action, fresh ideas and an unwavering commitment to patient-centered care, we are a force of health services innovation. When you work with us, or one of our subsidiaries, you’ll enjoy meaningful career experiences that enrich people’s lives. What difference will you make?","Financial Data Analyst, International Markets",1,192,360,276.0,Cigna,156
+"Cigna
+3.7", Full-time,HK$192K - HK$360K (Glassdoor Est.), Insurance,Size: 10000+ ,1865,4.0,Company - Public,Insurance,"Job Objective:
+To sustain company’s growth business needs on data analytics and automation, we are seeking a high caliber candidate to join the Regional Financial Planning and Analysis (FP&A) team in Hong Kong to provide the solutions to different stakeholders.
+
+This position is under Regional FP&A department based in Hong Kong.
+
+Job Description:
+Manage data warehouse, consolidate and integrate data from diversified data source
+Automate reporting processes by designing and implementing the right tools and processes
+Develop dashboards to facilitate efficient data analysis
+Assist in the standardization and alignment of data definition
+Exhibits ability to understand current and emerging technologies, and to apply in the business
+Assist in ad-hoc projects to drive the business decision-making process
+
+
+Bachelor’s degree in Computer Science, Statistics or Information Management or related discipline
+1-2 years’ relevant experience, fresh graduate is also welcome
+Hands-on experience in database management and data analysis with data visualization tools
+Proficiency in SQL language and excellent skillset in Excel is a must
+Python programming experience is an absolute advantage
+Experience in SSIS in a plus
+Well-organized, self-motivated and a good team player
+Good communication skill in both written and spoken in English
+
+About Cigna
+Cigna Corporation exists to improve lives. We are a global health service company dedicated to improving the health, well-being and peace of mind of those we serve. Together, with colleagues around the world, we aspire to transform health services, making them more affordable and accessible to millions. Through our unmatched expertise, bold action, fresh ideas and an unwavering commitment to patient-centered care, we are a force of health services innovation. When you work with us, or one of our subsidiaries, you’ll enjoy meaningful career experiences that enrich people’s lives. What difference will you make?","Financial Data Analyst, International Markets",1,192,360,276.0,Cigna,156
